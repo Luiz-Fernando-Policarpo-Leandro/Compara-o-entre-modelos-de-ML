@@ -1,5 +1,4 @@
-# Compara-o-entre-modelos-de-ML
-# Income Classification – Logistic Regression & Random Forest
+# Compara-o-entre-modelos-de-ML & Income Classification – Logistic Regression & Random Forest
 
 Este projeto implementa um pipeline completo de **classificação de renda** utilizando dois modelos de Machine Learning:
 
