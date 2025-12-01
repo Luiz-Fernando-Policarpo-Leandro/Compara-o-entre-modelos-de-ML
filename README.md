@@ -7,9 +7,9 @@ Este projeto implementa um pipeline completo de **classificação de renda** uti
 
 O objetivo é prever se um indivíduo possui renda anual **maior que USD 50K**, utilizando dados socioeconômicos públicos (Adult Census Income Dataset).
 
-O script `main.py` executa todo o fluxo automaticamente:
 link do dataset: https://www.kaggle.com/datasets/ayessa/salary-prediction-classification
 
+O script `main.py` executa todo o fluxo automaticamente:
 
 ✔ Carrega o dataset  
 ✔ Realiza pré-processamento completo  
